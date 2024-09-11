@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/newsgameprototype/static/css/main.7e152fc5.chunk.css",
+    "main.js": "/newsgameprototype/static/js/main.320a02ca.chunk.js",
+    "main.js.map": "/newsgameprototype/static/js/main.320a02ca.chunk.js.map",
+    "runtime-main.js": "/newsgameprototype/static/js/runtime-main.9db71540.js",
+    "runtime-main.js.map": "/newsgameprototype/static/js/runtime-main.9db71540.js.map",
+    "static/css/2.51e831bf.chunk.css": "/newsgameprototype/static/css/2.51e831bf.chunk.css",
+    "static/js/2.b14c42a2.chunk.js": "/newsgameprototype/static/js/2.b14c42a2.chunk.js",
+    "static/js/2.b14c42a2.chunk.js.map": "/newsgameprototype/static/js/2.b14c42a2.chunk.js.map",
+    "static/js/3.387af26f.chunk.js": "/newsgameprototype/static/js/3.387af26f.chunk.js",
+    "static/js/3.387af26f.chunk.js.map": "/newsgameprototype/static/js/3.387af26f.chunk.js.map",
+    "index.html": "/newsgameprototype/index.html",
+    "static/css/2.51e831bf.chunk.css.map": "/newsgameprototype/static/css/2.51e831bf.chunk.css.map",
+    "static/css/main.7e152fc5.chunk.css.map": "/newsgameprototype/static/css/main.7e152fc5.chunk.css.map",
+    "static/js/2.b14c42a2.chunk.js.LICENSE.txt": "/newsgameprototype/static/js/2.b14c42a2.chunk.js.LICENSE.txt",
+    "static/js/3.387af26f.chunk.js.LICENSE.txt": "/newsgameprototype/static/js/3.387af26f.chunk.js.LICENSE.txt",
+    "static/media/Logo.85087fdc.png": "/newsgameprototype/static/media/Logo.85087fdc.png",
+    "static/media/NLB Fake News Busters Characters_Emma.9ab01f52.png": "/newsgameprototype/static/media/NLB Fake News Busters Characters_Emma.9ab01f52.png",
+    "static/media/NLB Fake News Busters Characters_Raju.b1393f60.png": "/newsgameprototype/static/media/NLB Fake News Busters Characters_Raju.b1393f60.png",
+    "static/media/NLB Fake News Busters Characters_Sarah.cd6c8346.png": "/newsgameprototype/static/media/NLB Fake News Busters Characters_Sarah.cd6c8346.png",
+    "static/media/NLB Fake News Busters Characters_Upin.8c127554.png": "/newsgameprototype/static/media/NLB Fake News Busters Characters_Upin.8c127554.png",
+    "static/media/App.css": "/newsgameprototype/static/media/Screenshot (232).a821b247.png",
+    "static/media/correct.f0a18ad2.mp3": "/newsgameprototype/static/media/correct.f0a18ad2.mp3",
+    "static/media/slick-theme.css": "/newsgameprototype/static/media/slick.c94f7671.ttf",
+    "static/media/web_game_trailer.0814aacc.mov": "/newsgameprototype/static/media/web_game_trailer.0814aacc.mov",
+    "static/media/wrong_choice.58a0bf4a.wav": "/newsgameprototype/static/media/wrong_choice.58a0bf4a.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db71540.js",
+    "static/css/2.51e831bf.chunk.css",
+    "static/js/2.b14c42a2.chunk.js",
+    "static/css/main.7e152fc5.chunk.css",
+    "static/js/main.320a02ca.chunk.js"
+  ]
+}
