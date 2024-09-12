@@ -22,10 +22,10 @@ if (isMobile) {
 }
 else{
   unityContext = new UnityContext({
-    loaderUrl: "phone-build4Sep/game_build_phone4Sep.loader.js",
-    dataUrl: "phone-build4Sep/game_build_phone4Sep.data",
-    frameworkUrl: "phone-build4Sep/game_build_phone4Sep.framework.js",
-    codeUrl: "phone-build4Sep/game_build_phone4Sep.wasm",
+    loaderUrl: "sample-build/myunityapp.loader.js",
+    dataUrl: "sample-build/myunityapp.data",
+    frameworkUrl: "sample-build/myunityapp.framework.js",
+    codeUrl: "sample-build/myunityapp.wasm",
   });
 }
 

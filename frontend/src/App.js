@@ -12,6 +12,7 @@ import NotFoundPage from "./pages/NotFoundPage";
 import Demo from "./pages/Demo";
 import {
   Redirect,
+  HashRouter,
   BrowserRouter as Router,
   Switch,
   Route,
