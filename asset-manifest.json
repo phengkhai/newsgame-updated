@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/newsgame-updated/static/css/main.ec10e6e4.chunk.css",
-    "main.js": "/newsgame-updated/static/js/main.a366bb12.chunk.js",
-    "main.js.map": "/newsgame-updated/static/js/main.a366bb12.chunk.js.map",
+    "main.js": "/newsgame-updated/static/js/main.e0907c6d.chunk.js",
+    "main.js.map": "/newsgame-updated/static/js/main.e0907c6d.chunk.js.map",
     "runtime-main.js": "/newsgame-updated/static/js/runtime-main.1373e890.js",
     "runtime-main.js.map": "/newsgame-updated/static/js/runtime-main.1373e890.js.map",
     "static/css/2.b27895e1.chunk.css": "/newsgame-updated/static/css/2.b27895e1.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.b27895e1.chunk.css",
     "static/js/2.7f9b5896.chunk.js",
     "static/css/main.ec10e6e4.chunk.css",
-    "static/js/main.a366bb12.chunk.js"
+    "static/js/main.e0907c6d.chunk.js"
   ]
 }
