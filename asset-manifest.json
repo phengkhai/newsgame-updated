@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/newsgame-updated/static/css/main.ec10e6e4.chunk.css",
-    "main.js": "/newsgame-updated/static/js/main.320a02ca.chunk.js",
-    "main.js.map": "/newsgame-updated/static/js/main.320a02ca.chunk.js.map",
+    "main.js": "/newsgame-updated/static/js/main.a366bb12.chunk.js",
+    "main.js.map": "/newsgame-updated/static/js/main.a366bb12.chunk.js.map",
     "runtime-main.js": "/newsgame-updated/static/js/runtime-main.1373e890.js",
     "runtime-main.js.map": "/newsgame-updated/static/js/runtime-main.1373e890.js.map",
     "static/css/2.b27895e1.chunk.css": "/newsgame-updated/static/css/2.b27895e1.chunk.css",
-    "static/js/2.dc18f323.chunk.js": "/newsgame-updated/static/js/2.dc18f323.chunk.js",
-    "static/js/2.dc18f323.chunk.js.map": "/newsgame-updated/static/js/2.dc18f323.chunk.js.map",
+    "static/js/2.7f9b5896.chunk.js": "/newsgame-updated/static/js/2.7f9b5896.chunk.js",
+    "static/js/2.7f9b5896.chunk.js.map": "/newsgame-updated/static/js/2.7f9b5896.chunk.js.map",
     "static/js/3.387af26f.chunk.js": "/newsgame-updated/static/js/3.387af26f.chunk.js",
     "static/js/3.387af26f.chunk.js.map": "/newsgame-updated/static/js/3.387af26f.chunk.js.map",
     "index.html": "/newsgame-updated/index.html",
     "static/css/2.b27895e1.chunk.css.map": "/newsgame-updated/static/css/2.b27895e1.chunk.css.map",
     "static/css/main.ec10e6e4.chunk.css.map": "/newsgame-updated/static/css/main.ec10e6e4.chunk.css.map",
-    "static/js/2.dc18f323.chunk.js.LICENSE.txt": "/newsgame-updated/static/js/2.dc18f323.chunk.js.LICENSE.txt",
+    "static/js/2.7f9b5896.chunk.js.LICENSE.txt": "/newsgame-updated/static/js/2.7f9b5896.chunk.js.LICENSE.txt",
     "static/js/3.387af26f.chunk.js.LICENSE.txt": "/newsgame-updated/static/js/3.387af26f.chunk.js.LICENSE.txt",
     "static/media/Logo.85087fdc.png": "/newsgame-updated/static/media/Logo.85087fdc.png",
     "static/media/NLB Fake News Busters Characters_Emma.9ab01f52.png": "/newsgame-updated/static/media/NLB Fake News Busters Characters_Emma.9ab01f52.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.1373e890.js",
     "static/css/2.b27895e1.chunk.css",
-    "static/js/2.dc18f323.chunk.js",
+    "static/js/2.7f9b5896.chunk.js",
     "static/css/main.ec10e6e4.chunk.css",
-    "static/js/main.320a02ca.chunk.js"
+    "static/js/main.a366bb12.chunk.js"
   ]
 }
