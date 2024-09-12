@@ -8,13 +8,27 @@ import QuizAnswered from "../components/QuizAnswered";
 import { ScoreContext } from "../Context/ScoreContext";
 import ProgressBar from "react-bootstrap/ProgressBar";
 import axios from "axios";
+import { isMobile } from 'react-device-detect';
 
-const unityContext = new UnityContext({
-  loaderUrl: "build/myunityapp.loader.js",
-  dataUrl: "build/myunityapp.data",
-  frameworkUrl: "build/myunityapp.framework.js",
-  codeUrl: "build/myunityapp.wasm",
-});
+let unityContext
+if (isMobile) {
+  // Redirect to mobile-specific page or render mobile-specific component
+  unityContext = new UnityContext({
+    loaderUrl: "phone-build4Sep/game_build_phone4Sep.loader.js",
+    dataUrl: "phone-build4Sep/game_build_phone4Sep.data",
+    frameworkUrl: "phone-build4Sep/game_build_phone4Sep.framework.js",
+    codeUrl: "phone-build4Sep/game_build_phone4Sep.wasm",
+  });
+}
+else{
+  unityContext = new UnityContext({
+    loaderUrl: "sample-build/myunityapp.loader.js",
+    dataUrl: "sample-build/myunityapp.data",
+    frameworkUrl: "sample-build/myunityapp.framework.js",
+    codeUrl: "sample-build/myunityapp.wasm",
+  });
+}
+
 window.u = unityContext;
 
 function LoadingModal(props) {
