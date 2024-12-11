@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b3420330.chunk.css",
-    "main.js": "/static/js/main.a8a02cf7.chunk.js",
-    "main.js.map": "/static/js/main.a8a02cf7.chunk.js.map",
+    "main.js": "/static/js/main.0f616259.chunk.js",
+    "main.js.map": "/static/js/main.0f616259.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d05bd992.js",
     "runtime-main.js.map": "/static/js/runtime-main.d05bd992.js.map",
     "static/css/2.87375a8f.chunk.css": "/static/css/2.87375a8f.chunk.css",
@@ -21,6 +21,7 @@
     "static/media/NLB Fake News Busters Characters_Sarah.cd6c8346.png": "/static/media/NLB Fake News Busters Characters_Sarah.cd6c8346.png",
     "static/media/NLB Fake News Busters Characters_Upin.8c127554.png": "/static/media/NLB Fake News Busters Characters_Upin.8c127554.png",
     "static/media/App.css": "/static/media/Screenshot (232).a821b247.png",
+    "static/media/checkmate_logo.5dd3457e.svg": "/static/media/checkmate_logo.5dd3457e.svg",
     "static/media/correct.f0a18ad2.mp3": "/static/media/correct.f0a18ad2.mp3",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/web_game_trailer.0814aacc.mov": "/static/media/web_game_trailer.0814aacc.mov",
@@ -31,6 +32,6 @@
     "static/css/2.87375a8f.chunk.css",
     "static/js/2.ceee799f.chunk.js",
     "static/css/main.b3420330.chunk.css",
-    "static/js/main.a8a02cf7.chunk.js"
+    "static/js/main.0f616259.chunk.js"
   ]
 }
